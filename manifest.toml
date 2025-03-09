@@ -5,7 +5,7 @@ packaging_format = 2
 id = "299ko"
 name = "299Ko"
 description.en = "Simple, fast & lightweight PHP flat-file CMS"
-description.fr = "CMS PHP simple, rapide et léger à base de fichiers plats"
+description.fr = "CMS PHP simple, rapide et léger"
 
 version = "2.0.0~ynh1"
 
